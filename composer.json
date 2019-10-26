@@ -13,9 +13,6 @@
     "require": {
 		"php": ">=7.1"
     },
-    "minimum-stability": "dev",
-    "support": {
-        "issues": "https://www.drupal.org/project/issues/my_article_view",
-        "source": "http://cgit.drupalcode.org/my_article_view",
-    }
+    "minimum-stability": "dev"
+
 }
