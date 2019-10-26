@@ -1,5 +1,5 @@
 {
-    "name": "my_article_view",
+    "name": "crafterr/my_article_view",
     "minimum-stability": "dev",
     "type": "drupal-module",
     "license": "MIT",
