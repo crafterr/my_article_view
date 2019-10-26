@@ -1,9 +1,20 @@
 {
     "name": "my_article_view",
+    "minimum-stability": "dev",
     "type": "drupal-module",
+    "license": "MIT",
     "description": "My Awesome Module",
     "keywords": [
     ],
+    "authors": [
+        {
+            "name": "Adam Pietras",
+            "email": "adam@crafter.net.pl"
+        }
+    ],
+    "require": {
+		"php": ">=7.1",
+    },
     "homepage": "https://www.drupal.org/project/my_article_view",
     "minimum-stability": "dev",
     "support": {
