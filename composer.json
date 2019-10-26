@@ -4,8 +4,6 @@
     "type": "drupal-module",
     "license": "MIT",
     "description": "My Awesome Module",
-    "keywords": [
-    ],
     "authors": [
         {
             "name": "Adam Pietras",
