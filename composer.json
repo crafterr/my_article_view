@@ -15,7 +15,6 @@
     "require": {
 		"php": ">=7.1",
     },
-    "homepage": "https://www.drupal.org/project/my_article_view",
     "minimum-stability": "dev",
     "support": {
         "issues": "https://www.drupal.org/project/issues/my_article_view",
