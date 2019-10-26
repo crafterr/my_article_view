@@ -33,3 +33,6 @@ function my_article_view_theme() {
     ],
   ];
 }
+
+function my_article_view_func() {
+}
